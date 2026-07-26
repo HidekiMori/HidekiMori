@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hideki Mori（森秀樹）
 
-<!--
-**HidekiMori/HidekiMori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building **[LDX hub](https://gw.portal.ldxhub.io)** — an AI document processing platform
+(structured extraction, translation refinement, OCR, document conversion).
+Solo: design, code, and operations.
 
-Here are some ideas to get you started:
+Writing about LLM systems, API design, and the boring decisions
+that make things work in production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Writing
+
+- **dev.to** (EN, primary): [dev.to/hidekimori](https://dev.to/hidekimori)
+- **Hatena Blog** (JA): [hidekimori.hatenablog.com](https://hidekimori.hatenablog.com)
+- **Zenn** (JA): [zenn.dev/hidekimori](https://zenn.dev/hidekimori)
+
+## Elsewhere
+
+[X](https://x.com/mrdtokyomori) / [LinkedIn](https://www.linkedin.com/in/mrdtokyomori)
